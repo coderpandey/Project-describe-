@@ -1,0 +1,18 @@
+
+body {
+   
+  text-align:center;
+ 
+}
+#h{
+   background:linear-gradient( #ff8400 0% , #ff0000 100%);
+   background-repeat:no-repeat;
+}
+#reading{
+  background:linear-gradient(#ff00b7 0% , #00f2ff 100% );
+   background-repeat:no-repeat;
+}
+#coding{
+  background:linear-gradient( #ffff00 0% ,  #00ff08 100%  );
+   background-repeat:no-repeat;
+}
